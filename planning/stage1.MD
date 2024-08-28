@@ -12,3 +12,4 @@ We need to plan stage 1 of this project. Stage 1 involves the following activiti
 1. Install cat corner
 1. Install automatic cat feeder
 1. Install water bowl
+1. Do a test with Thompson, does he like it?
